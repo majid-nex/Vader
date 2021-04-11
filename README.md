@@ -2,6 +2,8 @@
 <h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">🔥 †hê Hêllẞø† 🔥</a></h2>
 
 
+![GitHub repo size](https://img.shields.io/github/repo-size/majid-nex/vader)
+
 <h1 align="center">⚡ †hê VΛDΣЯ ⚡</h1>
 
 
